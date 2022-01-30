@@ -7,6 +7,7 @@ typechain
 #Hardhat files
 cache
 artifacts
+hardhat.config.js
 
 
 # Created by .ignore support plugin (hsz.mobi)
